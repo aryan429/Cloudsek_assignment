@@ -49,7 +49,3 @@
     npm run dev
     ```
 
-## Live URL
-
-[Live URL Link](#) <!-- Add your live URL here -->
-
